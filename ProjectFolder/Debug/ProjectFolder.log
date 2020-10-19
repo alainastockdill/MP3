@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Viktor\Desktop\School\2 Sophmore\Semester 1\Data Structures\MP3\ProjectFolder\Sort.h(7,13): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\Viktor\Desktop\School\2 Sophmore\Semester 1\Data Structures\MP3\ProjectFolder\Sort.h(7,13): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  ProjectFolder.vcxproj -> C:\Users\Viktor\Desktop\School\2 Sophmore\Semester 1\Data Structures\MP3\ProjectFolder\Debug\ProjectFolder.exe

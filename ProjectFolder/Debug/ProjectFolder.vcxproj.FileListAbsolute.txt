@@ -1,0 +1,2 @@
+C:\Users\Viktor\Desktop\School\2 Sophmore\Semester 1\Data Structures\MP3\ProjectFolder\Debug\ProjectFolder.exe
+C:\Users\Viktor\Desktop\School\2 Sophmore\Semester 1\Data Structures\MP3\ProjectFolder\Debug\ProjectFolder.pdb
